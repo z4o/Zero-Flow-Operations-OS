@@ -1,6 +1,13 @@
 <div align="center" style="float:left;">
-<img width="360" height="360" alt="z4o Hacker" src="https://github.com/user-attachments/assets/6cd55f1a-cf14-46b5-9a9d-e973acf6e427" />
-<img width="360" height="360" alt="z4o Business" src="https://github.com/user-attachments/assets/6c44c067-17be-48ff-bcaa-fdcc18294a34" />
-<img width="360" height="360" alt="z4o Server" src="https://github.com/user-attachments/assets/76840965-bab0-4789-81cf-986237d8760d" />
+<img width="360" height="360" alt="z4o Hacker" src="images/z4o_Hacker.png" />
+<img width="360" height="360" alt="z4o Business" src="images/z4o_Business.png" />
+<img width="360" height="360" alt="z4o GnuTux" src="images/z4o_GnuTux.png" />
+<img width="360" height="360" alt="z4o version hacker" src="images/z4o_hacker_2.png" />
+<img width="360" height="360" alt="z4o version developer" src="images/z4o_developer_2.png" />
+<img width="360" height="360" alt="z4o version lab" src="images/z4o_labor.png" />
+<img width="360" height="360" alt="z4o version office" src="images/z4o_office_2.png" />
+<img width="360" height="360" alt="z4o version server" src="images/z4o_server_2.png" />
+<img width="360" height="360" alt="z4o version tronbotix" src="images/z4o_tronbotix.png" />
+<img width="360" height="360" alt="z4o version mobile" src="images/z4o_mobile_2.png" />
 </div>
 
