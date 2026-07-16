@@ -16,4 +16,4 @@ The AI-powered environment is built on the convergence of collective intelligenc
 
 It offers flexible deployment as a server solution, office workstation, or development platform.
 
-<img width="360" height="360" alt="z4o Hacker" src="https://github.com/user-attachments/assets/6cd55f1a-cf14-46b5-9a9d-e973acf6e427" />
+<img width="360" height="360" alt="z4o Hacker" src="images/z4o_Hacker.png" />
