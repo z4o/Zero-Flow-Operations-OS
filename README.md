@@ -1,4 +1,4 @@
-# z4o / Zero-Flow-Operations-OS
+# <img width="180" alt="z4o Hacker" title="z4o / Zero-Flow-Operations-OS" src="images/z4o_Hacker.png" />z4o / Zero-Flow-Operations-OS
 
 A hardened, hackable, secure, and high-performance Debian-based GNU/Linux operating system featuring
 
@@ -16,7 +16,6 @@ The AI-powered environment is built on the convergence of collective intelligenc
 
 It offers flexible deployment as a server solution, office workstation, or development platform.
 
-<img width="360" height="360" alt="z4o Hacker" title="z4o / Zero-Flow-Operations-OS" src="images/z4o_Hacker.png" />
 
 # <img height="160" alt="Debian GNU/Linux Logo" title="Debian GNU/Linux" src="https://www.debian.org/Pics/openlogo-50.png" /> News
 - <a href="https://www.debian.org/News/2026/2026071102" title="Updated Debian 12: 12.15 released">Updated Debian 12: 12.15 released</a>
