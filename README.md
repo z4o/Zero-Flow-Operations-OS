@@ -15,6 +15,11 @@ A hardened, hackable, secure, and high-performance Debian-based GNU/Linux operat
 The AI-powered environment is built on the convergence of collective intelligence into a self-learning, autonomous super-organism.
 
 It offers flexible deployment as a server solution, office workstation, or development platform.
+
+# System Architects & Developers
+- Ioannis Balasis
+- Jana Schmitt
+- Eric Green
 #
 
 # <img height="160" alt="Debian GNU/Linux Logo" title="Debian GNU/Linux" src="https://www.debian.org/Pics/openlogo-50.png" /> News
