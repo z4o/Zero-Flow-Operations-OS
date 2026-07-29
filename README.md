@@ -1,4 +1,4 @@
-# <img width="180" alt="z4o Hacker" title="z4o / Zero-Flow-Operations-OS" src="images/z4o_Hacker.png" />z4o / Zero-Flow-Operations-OS
+# <img width="180" alt="z4o Zero-Flow-Operations-OS" title="z4o / Zero-Flow-Operations-OS" src="imagesz4o_Team_533_170.png" />z4o / Zero-Flow-Operations-OS
 
 A hardened, hackable, secure, and high-performance Debian-based GNU/Linux operating system featuring
 
