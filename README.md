@@ -30,9 +30,9 @@ It offers flexible deployment as a server solution, office workstation, or devel
 #
 
 # Versions
-- <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Hacker" title="z4o Zero Flow Operations OS Hacker">z4o Hacker</a>
-- <a href="https://github.com/z4o/Zero-Flow-Operations-OS-DevOps" title="z4o Zero Flow Operations OS DevOps">z4o DevOps</a>
-- <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Tronbotix" title="z4o Zero Flow Operations OS Tronbotix">z4o Tronbotix</a>
-- <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Server" title="z4o Zero Flow Operations OS Server">z4o Server</a>
-- <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Office" title="z4o Zero Flow Operations OS Office">z4o Office</a>
-- <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Lab" title="z4o Zero Flow Operations OS Lab">z4o Lab</a>
+- <img width="40" alt="z4o Hacker" title="Zero-Flow-Operations-OS-Hacker" src="https://raw.githubusercontent.com/z4o/Zero-Flow-Operations-OS/refs/heads/main/images/z4o_Hacker.png" /> <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Hacker" title="z4o Zero Flow Operations OS Hacker">z4o Hacker</a>
+- <img width="40" alt="z4o DevOps" title="Zero-Flow-Operations-OS-DevOps" src="https://raw.githubusercontent.com/z4o/Zero-Flow-Operations-OS/refs/heads/main/images/z4o_developer_2.png" /> <a href="https://github.com/z4o/Zero-Flow-Operations-OS-DevOps" title="z4o Zero Flow Operations OS DevOps">z4o DevOps</a>
+- <img width="40" alt="z4o Tronbotix" title="Zero-Flow-Operations-OS-Tronbotix" src="https://raw.githubusercontent.com/z4o/Zero-Flow-Operations-OS/refs/heads/main/images/z4o_tronbotix.png" /> <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Tronbotix" title="z4o Zero Flow Operations OS Tronbotix">z4o Tronbotix</a>
+- <img width="40" alt="z4o Server" title="Zero-Flow-Operations-OS-Server" src="https://raw.githubusercontent.com/z4o/Zero-Flow-Operations-OS/refs/heads/main/images/z4o_server_2.png" /> <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Server" title="z4o Zero Flow Operations OS Server">z4o Server</a>
+- <img width="40" alt="z4o Office" title="Zero-Flow-Operations-OS-Office" src="https://raw.githubusercontent.com/z4o/Zero-Flow-Operations-OS/refs/heads/main/images/z4o_office_2.png" /> <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Office" title="z4o Zero Flow Operations OS Office">z4o Office</a>
+- <img width="40" alt="z4o Lab" title="Zero-Flow-Operations-OS-Lab" src="https://raw.githubusercontent.com/z4o/Zero-Flow-Operations-OS/refs/heads/main/images/z4o_labor.png" /> <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Lab" title="z4o Zero Flow Operations OS Lab">z4o Lab</a>
