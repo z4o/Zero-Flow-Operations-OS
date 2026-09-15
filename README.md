@@ -37,8 +37,15 @@ It offers flexible deployment as a server solution, office workstation, or devel
 #
 
 # <img height="160" alt="Debian GNU/Linux Logo" title="Debian GNU/Linux" src="https://www.debian.org/Pics/openlogo-50.png" /> News
-- <a href="https://www.debian.org/News/2026/2026071102" title="Updated Debian 12: 12.15 released">Updated Debian 12: 12.15 released</a>
+
+<b>Debian 11 "bullseye"</b>
+- <a href="https://www.debian.org/News/2026/20260831" title="Debian 11 Long Term Support reaches end-of-life">Debian 11 Long Term Support reaches end-of-life 31.08.2026</a>
+
+<b>Debian 12 "bookworm"</b>
+- <a href="https://www.debian.org/News/2026/2026071102" title="Updated Debian 12: 12.15 released">Debian 12: 12.15 released</a>
 - <a href="https://www.debian.org/News/2026/20260712" title="Security support for Bookworm handed over to the LTS team">Security support for Bookworm handed over to the LTS team</a>
-- <a href="https://www.debian.org/News/2026/20260711" title="Updated Debian 13: 13.6 released">Updated Debian 13: 13.6 released</a>
-- <a href="https://www.debian.org/News/2026/20260711" title="Debian 11 Long Term Support reaches end-of-life">Debian 11 Long Term Support reaches end-of-life 31.08.2026</a>
+
+<b>Debian 13 "trixie"</b>
+- <a href="https://www.debian.org/News/2026/20260711" title="Updated Debian 13: 13.6 released">Debian 13: 13.6 released</a>
+- <a href="https://www.debian.org/News/2026/20260912" title="Updated Debian 13: 13.7 released">Debian 13: 13.7 released</a>
 #
