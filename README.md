@@ -40,4 +40,5 @@ It offers flexible deployment as a server solution, office workstation, or devel
 - <a href="https://www.debian.org/News/2026/2026071102" title="Updated Debian 12: 12.15 released">Updated Debian 12: 12.15 released</a>
 - <a href="https://www.debian.org/News/2026/20260712" title="Security support for Bookworm handed over to the LTS team">Security support for Bookworm handed over to the LTS team</a>
 - <a href="https://www.debian.org/News/2026/20260711" title="Updated Debian 13: 13.6 released">Updated Debian 13: 13.6 released</a>
+- <a href="https://www.debian.org/News/2026/20260711" title="Debian 11 Long Term Support reaches end-of-life">Debian 11 Long Term Support reaches end-of-life 31.08.2026</a>
 #
