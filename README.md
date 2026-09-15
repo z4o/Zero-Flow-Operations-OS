@@ -25,11 +25,6 @@ It offers flexible deployment as a server solution, office workstation, or devel
 - Eric Green
 #
 
-# <img height="160" alt="Debian GNU/Linux Logo" title="Debian GNU/Linux" src="https://www.debian.org/Pics/openlogo-50.png" /> News
-- <a href="https://www.debian.org/News/2026/2026071102" title="Updated Debian 12: 12.15 released">Updated Debian 12: 12.15 released</a>
-- <a href="https://www.debian.org/News/2026/20260712" title="Security support for Bookworm handed over to the LTS team">Security support for Bookworm handed over to the LTS team</a>
-- <a href="https://www.debian.org/News/2026/20260711" title="Updated Debian 13: 13.6 released">Updated Debian 13: 13.6 released</a>
-#
 
 # Versions 
 ![Build](https://img.shields.io/badge/Build-Online-brightgreen?style=for-the-badge)
@@ -39,3 +34,10 @@ It offers flexible deployment as a server solution, office workstation, or devel
 - <img width="40" alt="z4o Server" title="Zero-Flow-Operations-OS-Server" src="https://raw.githubusercontent.com/z4o/Zero-Flow-Operations-OS/refs/heads/main/images/z4o_server_2.png" /> <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Server" title="z4o Zero Flow Operations OS Server">z4o Server</a>
 - <img width="40" alt="z4o Office" title="Zero-Flow-Operations-OS-Office" src="https://raw.githubusercontent.com/z4o/Zero-Flow-Operations-OS/refs/heads/main/images/z4o_office_2.png" /> <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Office" title="z4o Zero Flow Operations OS Office">z4o Office</a>
 - <img width="40" alt="z4o Lab" title="Zero-Flow-Operations-OS-Lab" src="https://raw.githubusercontent.com/z4o/Zero-Flow-Operations-OS/refs/heads/main/images/z4o_labor.png" /> <a href="https://github.com/z4o/Zero-Flow-Operations-OS-Lab" title="z4o Zero Flow Operations OS Lab">z4o Lab</a>
+#
+
+# <img height="160" alt="Debian GNU/Linux Logo" title="Debian GNU/Linux" src="https://www.debian.org/Pics/openlogo-50.png" /> News
+- <a href="https://www.debian.org/News/2026/2026071102" title="Updated Debian 12: 12.15 released">Updated Debian 12: 12.15 released</a>
+- <a href="https://www.debian.org/News/2026/20260712" title="Security support for Bookworm handed over to the LTS team">Security support for Bookworm handed over to the LTS team</a>
+- <a href="https://www.debian.org/News/2026/20260711" title="Updated Debian 13: 13.6 released">Updated Debian 13: 13.6 released</a>
+#
